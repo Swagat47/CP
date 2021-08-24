@@ -1,2 +1,5 @@
-Inorder traversal before insertion:7 11 10 15 9 8 
-Inorder traversal after insertion:7 11 12 10 15 9 8 
+tree before deletion
+7 11 12 10 15 9 8 
+
+Tree after deletion
+7 8 12 10 15 9 
